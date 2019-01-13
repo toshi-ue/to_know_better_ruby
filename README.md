@@ -32,8 +32,8 @@ this is a repository to know ruby better.
 |day|start-page<br>(chapter)|end-page<br>(chapter)|  next-page<br>(chapter) |
 |:----:|:----:|:----:|:----:|
 |18-01-06|18<br>(2.2)|38<br>(2.6.2)|38<br>(2.7.1)|
-|18-01-13|38<br>(2.7.1)|||
+|18-01-13|38<br>(2.7.1)|46<br>(2.8.6)|(2.9.1)|
 
 <br>
 <br>
-|18-00-00|xx<br>(..)|yy<br>(..)|zz<br>(z.z.z)|
+<!-- |18-00-00|xx<br>(..)|yy<br>(..)|zz<br>(z.z.z)| -->

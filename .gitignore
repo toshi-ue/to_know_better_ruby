@@ -30,6 +30,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+### My ###
+/memos
+
 ### Ruby ###
 *.gem
 *.rbc
